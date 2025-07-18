@@ -6,7 +6,9 @@
 
 ### 方式一：直接下载
 
-下载 `https://gitee.com/linyunnuo/Ambari-2.7.x-zh/releases/download/V1.0.0/public.tar` 直接使用
+#### 下载地址：[https://github.com/ukayunnuo/Ambari-2.7.x-zh/releases/download/V1.0.0/public.tar](https://github.com/ukayunnuo/Ambari-2.7.x-zh/releases/download/V1.0.0/public.tar)
+
+#### 国内-下载地址： [https://gitee.com/linyunnuo/Ambari-2.7.x-zh/releases/download/V1.0.0/public.tar](https://gitee.com/linyunnuo/Ambari-2.7.x-zh/releases/download/V1.0.0/public.tar)
 
 ###  方式二、ambari-web 构建编译方法
 
