@@ -36,6 +36,10 @@ npm config set registry https://registry.npmmirror.com/
 
 # 安装 brunch
 npm install -g brunch@1.7
+
+# 安装依赖
+npm install
+
 # 构建
 brunch build
 
